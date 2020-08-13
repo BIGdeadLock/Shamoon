@@ -11,7 +11,7 @@ To run it:
   in the cmd windows type: python shamoon.py -i
 
 In order to run the cleanup (deletion of all the files and process shamoon created):
-  open a new cmd and cd to the shamoon folder (>>cd C:\Users\....\Shamoon\shamoon)
+  open a new cmd and cd to the shamoon folder (cd C:\Users\....\Shamoon\shamoon)
 	in the cmd windows type: python shamoon.py -d
 
 
