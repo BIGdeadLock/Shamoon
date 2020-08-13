@@ -8,11 +8,11 @@ This script can run with a windows machine that has a Python 2 version installed
 
 To run it: 
   open a new cmd and cd to the shamoon folder (cd C:\Users\....\Shamoon\shamoon)
-  in the cmd windows type: python shamoon.py -i
+  in the cmd type: python shamoon.py -i
 
 In order to run the cleanup (deletion of all the files and process shamoon created):
   open a new cmd and cd to the shamoon folder (cd C:\Users\....\Shamoon\shamoon)
-	in the cmd windows type: python shamoon.py -d
+	in the cmd type: python shamoon.py -d
 
 
 # Please make sure there is live internet connection.
