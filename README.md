@@ -7,7 +7,7 @@ This script can run with a windows machine that has a Python 2 version installed
 # This script contains most of the payload for the Shamoon malware
 
 To run it: 
-  open a new cmd and cd to the shamoon folder (>>cd C:\Users\....\Shamoon\shamoon)
+  open a new cmd and cd to the shamoon folder (cd C:\Users\....\Shamoon\shamoon)
   in the cmd windows type: python shamoon.py -i
 
 In order to run the cleanup (deletion of all the files and process shamoon created):
