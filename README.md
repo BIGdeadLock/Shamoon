@@ -4,7 +4,7 @@ Shamoon's payload simulation
 ************
 This script can run with a windows machine that has a Python 2 version installed.
 ************
-# *This script contains most of the payload for the Shamoon malware
+# This script contains most of the payload for the Shamoon malware
 
 To run it: 
   open a new cmd and cd to the shamoon folder (>>cd C:\Users\....\Shamoon\shamoon)
@@ -15,7 +15,7 @@ In order to run the cleanup (deletion of all the files and process shamoon creat
 	in the cmd windows type: python shamoon.py -d
 
 
-# *Please make sure there is live internet connection.
+# Please make sure there is live internet connection.
 
 # Couple of remarks:
 
